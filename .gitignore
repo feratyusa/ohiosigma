@@ -1,0 +1,10 @@
+.vscode
+
+Debug
+
+ohiosigma/obj
+ohiosigma/bin
+
+ohiosigma/Template
+ohiosigma/Laporan/*
+ohiosigma/Output/*

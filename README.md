@@ -4,4 +4,4 @@ Excel converter to txt with string parser using C#
 
 Ohiosigma
 
-Idk
+Version 1.0
